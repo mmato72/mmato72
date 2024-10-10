@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>I'm Martin! <br/><a href="https://github.com/joshmadakor1">Linux Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Site Reliability/DevOps Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>I'm Martin! <br/><a href="https://github.com/joshmadakor1">Linux Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Site Reliability Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
