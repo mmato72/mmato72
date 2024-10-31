@@ -21,7 +21,7 @@ Welcome to my GitHub! I specialize in **Linux System Administration**, **Site Re
 ### 3. Installing Kubernetes Control Plane Locally (Kubernetes, Docker, Linux)
 - **Description**: Kubernetes Control Plane installation locally, giving you full control over the implementation.
 - **Tech Stack**: Kubernetes, Docker, Linux
-- [Repository](https://www.linkedin.com/pulse/installing-k8s-control-plane-vm-your-local-machine-martin-mato-p00ke/?trackingId=O4c%2F4UuMQbWhFae3BeOXCA%3D%3D)
+- [LinkedIn Article](https://www.linkedin.com/pulse/installing-k8s-control-plane-vm-your-local-machine-martin-mato-p00ke/?trackingId=O4c%2F4UuMQbWhFae3BeOXCA%3D%3D)
 
 ---
 
