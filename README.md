@@ -1,46 +1,38 @@
 ## Hi there 👋
 
-<h1>I'm Martin!<br/> <a href="https://github.com/joshmadakor1">Linux Administrator</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Site Reliability Engineer</a></h1>
+<h1>I'm Martin!<br/> <a href="https://github.com/mmato72">Linux Administrator</a> | <a href="https://www.linkedin.com/in/martin-mato-linux-steroids/">Site Reliability Engineer</a></h1>
 
-Welcome to my GitHub! I specialize in **Linux System Administration**, **Site Reliability Engineering**, and **DevOps**. With extensive experience in automating infrastructure, optimizing cloud solutions, and maintaining high availability systems, I bring cutting-edge technology solutions to complex operational challenges.
+Welcome to my GitHub! I specialize in **Linux System Administration**, **Site Reliability Engineering**, and **DevOps**. With extensive experience in system administration, automating infrastructure, optimizing cloud solutions, and maintaining high-availability systems, I bring cutting-edge technology solutions to complex operational challenges.
 
 ---
 
 <h2>👨‍💻 Key Projects:</h2>
 
-### 1. Scalable Microservices Infrastructure (Kubernetes, Docker, Terraform)
-- **Description**: Built a highly scalable, containerized microservices platform using Kubernetes on AWS. Automated infrastructure provisioning using Terraform.
-- **Tech Stack**: Kubernetes, Docker, AWS, Terraform, Helm, Prometheus, Grafana
-- [Repository](#)
+### 1. Configure Observability (Grafana, Prometheus, Docker)
+- **Description**: Prevent Downtime by configuring Observability on your servers.
+- **Tech Stack**: Docker, Prometheus, Grafana, Node Exporter, Linux
+- [LinkedIn Article](https://www.linkedin.com/pulse/prevent-downtime-observability-grafana-prometheus-node-martin-mato-wrbzf/?trackingId=KqY7rm5kTfiDNf3lgGYM%2BQ%3D%3D)
 
-### 2. CI/CD Pipeline Automation (Jenkins, Git, Docker)
-- **Description**: Designed and implemented an automated CI/CD pipeline to streamline deployment and reduce release times by 30%.
-- **Tech Stack**: Jenkins, Docker, Git, Ansible, Nexus, TeamCity
-- [Repository](#)
+### 2. CI/CD Pipeline Automation (GitHub Actions, Git, Docker)
+- **Description**: Containerization and Automation of Applications.
+- **Tech Stack**: GitHub Actions, Docker, Git, PostgreSQL, Linux, DockerHub
+- [LinkedIn Article](https://www.linkedin.com/pulse/containerizing-automating-deployment-application-martin-mato-e5yhc/?trackingId=O4c%2F4UuMQbWhFae3BeOXCA%3D%3D)
 
-### 3. Full Stack Web Application (React, Node.js, Azure)
-- **Description**: Developed a full-stack web application integrated with Azure services, including a machine learning component for image analysis.
-- **Tech Stack**: React, Node.js, Express, Azure, Python (ML)
-- [Repository](#)
-
----
-
-<h2>📊 Data Structures and Algorithms Practice:</h2>
-
-- **AlgoExpert Solutions**: Practicing and mastering advanced data structures and algorithms in Python.
-- [Algorithms Repository](https://github.com/joshmadakor1/Algorithms-Practice)
+### 3. Installing Kubernetes Control Plane Locally (Kubernetes, Docker, Linux)
+- **Description**: Kubernetes Control Plane installation locally, giving you full control over the implementation.
+- **Tech Stack**: Kubernetes, Docker, Linux
+- [Repository](https://www.linkedin.com/pulse/installing-k8s-control-plane-vm-your-local-machine-martin-mato-p00ke/?trackingId=O4c%2F4UuMQbWhFae3BeOXCA%3D%3D)
 
 ---
 
 <h2>📺 Popular Videos:</h2>
 
-As part of my commitment to the tech community, I share my knowledge through YouTube tutorials and demonstrations:
+As part of my commitment to the tech community, I share my knowledge through YouTube tutorials:
 
-- [How to Get Into Cybersecurity: Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Creating a Keylogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Simulation (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Bash Shell Scripting Playlist](https://www.youtube.com/watch?v=wUkuuUHKmzk&list=PLhQUUetYOdlfP0SerUM1jEpArey70faay)
+- [File Permissions Playlist](https://www.youtube.com/watch?v=bjeLDUkot3U&list=PLhQUUetYOdldqiHxR0E4JaY3p-ug3ee5h)
+- [Proccesses Playlist](https://www.youtube.com/watch?v=F5u4YDRQD4w&list=PLhQUUetYOdlerfJh7PkL6FuX_o5I_5rAe)
+- [Basic Commands Playlist](https://www.youtube.com/watch?v=dtzOT94IsLk&list=PLhQUUetYOdlfU72nLmn8zrgcZqBroNSGm)
 
 ---
 
@@ -53,5 +45,5 @@ You can reach me on these platforms to discuss opportunities, collaborations, or
 
 <br/>
 
-[youtube]: https://www.youtube.com/c/joshmadakor  
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/@techimation-kg2pb  
+[linkedin]: https://www.linkedin.com/in/martin-mato-linux-steroids/
